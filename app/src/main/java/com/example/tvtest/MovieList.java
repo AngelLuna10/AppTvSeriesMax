@@ -33,14 +33,14 @@ public final class MovieList {
                 "The Animal"
         };
 
-        String description = "Fusce id nisi turpis. Praesent viverra bibendum semper. "
-                + "Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est "
-                + "quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit "
-                + "amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit "
-                + "facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id "
-                + "lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.";
+        String description = "l SeriesMax l es una plataforma de streaming de series y peliculas "
+                + "Teniendo grandes titulos los cuales tienen un trailer de presentacion a la misma"
+                + "Desarrrollada por Diaz Velazco Cristhoper, Bocanegra Herrera Fernando y Luna Cruz Angel"
+                + "Los cuales buscan ofrecer entretenimiento a diverso publico mediante la variedad de contenido"
+                + "Buscamos llegar a todo tipo de publico con las categorias y un filtro para edades "
+                + "Esperamos disfrutes del contenido actual y el proximo agregado. ";
         String studio[] = {
-                "Studio Zero", "Studio One", "Studio Two", "Studio Three", "Studio Four"
+                "Studio", "Studio", "Studio", "Studio", "Studio"
         };
         String videoUrl[] = {
                 "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Zeitgeist%202010_%20Year%20in%20Review.mp4",
